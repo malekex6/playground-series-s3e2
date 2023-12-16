@@ -8,4 +8,4 @@ This repository contains code and analysis for a binary classification task focu
 ## Contents:
 - **Code:** Python notebooks/scripts showcasing data preprocessing, feature engineering, modeling, and evaluation.
 - **Dataset:** Already uploaded in the repo.
-- **README:** Overview of the project, guidance on using the code and dataset.
+- **README:** Overview of the project
